@@ -17,7 +17,7 @@
 ```yaml
 name: Richard Matos
 location: Havana, Cuba
-education: B.Sc. in Computer Science @ MATCOM, University of Havana (graduating 2026)
+education: B.Sc. in Computer Science @ MATCOM, University of Havana 
 interests:
   - Data Science & Analytics
   - Applied Mathematics & Modeling
@@ -26,7 +26,7 @@ interests:
   - Compiler Design & Programming Languages
 ```
 
-- 🎓 Final-year **Computer Science** student passionate about turning data into insights
+- 🎓 **Computer Scientist**  passionate about turning data into insights
 - 🔬 Focused on **Data Science**, **Applied Mathematics**, and **Machine Learning**
 - 🧬 Research interests in **Biomedical AI**, **Epidemiological Modeling**, and **Mathematical Biology**
 - 🤖 Building **AI-powered platforms** — multi-agent systems, RAG pipelines, and AutoML workflows
